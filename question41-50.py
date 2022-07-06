@@ -33,7 +33,7 @@ print(site.getsitepackages())
 from subprocess import call
 call(["mkdir", "seasia"])
 
-46. Write a python program to get the path and name of the file that is currently executing. 
+#46. Write a python program to get the path and name of the file that is currently executing. 
 #code:
 
 import os
