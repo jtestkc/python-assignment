@@ -108,7 +108,7 @@ print( "The examination will start from : %i / %i / %i"%exam_st_date)
 ###Expected Result : 615
 
 
-code :
+#code :
 
 no = int(input("Enter a number: "))
 output = no+no*no+no*no*no
