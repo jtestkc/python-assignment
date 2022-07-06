@@ -1,2 +1,5 @@
-# python-assignment
-Jobs Report | Pricing Jobs | Exavault to Catalog | 07/06/2022
+# Python-assignment
+Solved
+
+
+https://www.w3resource.com/python-exercises/python-basic-exercises.php
